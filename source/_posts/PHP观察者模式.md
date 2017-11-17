@@ -1,7 +1,9 @@
 title: 观察者模式
-categories: PHP
-tags: [设计模式]
-description: 观察者模式
+tags:
+  - 设计模式
+categories:
+  - PHP
+date: 2017-05-23 22:52:36
 ---
 
 ## 观察者模式
@@ -18,7 +20,7 @@ description: 观察者模式
 具体通知者角色（Boss）：实现抽象通知者的接口，接到状态改变立即向观察者下发通知。
 抽象观察者角色（IObserver）：定义接到通知后所做的操作（Update）接口规则。
 具体观察者角色（JingDong）：实现具体操作方法。
-
+```php
 	//定义通知者的接口
 	interface Subject {
     /**
@@ -84,3 +86,4 @@ description: 观察者模式
 	$observer2 = new Observer2();
 	$subject->attach($observer1);
 	$subject->attach($observer2);
+```

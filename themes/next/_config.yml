@@ -234,9 +234,9 @@ post_wordcount:
   #description: ex. subscribe to my blog by scanning my public wechat account
 
 # Reward
-reward_comment: Donate comment here
-wechatpay: /images/wechatpay.jpg
-alipay: /images/alipay.jpg
+reward_comment: 如果本文对您有所帮助，您可以点打赏击请作者喝杯咖啡。
+wechatpay: /statics/images/wx.png
+alipay: /statics/images/alipay.jpg
 #bitcoin: /images/bitcoin.png
 
 # Declare license on posts
@@ -564,7 +564,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page

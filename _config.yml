@@ -10,7 +10,7 @@ author: 闲云野鹤
 language: zh-Hans
 timezone:
 
-# URL 
+# URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://xianyunyh.github.io
 root: /
@@ -72,3 +72,9 @@ deploy:
   type: git
   repo: https://github.com/xianyunyh/xianyunyh.github.io
   brance: master
+admin:
+    name: hexo
+    password: hey
+    secret: hey hexo
+    expire: 60*1
+    # cors: http://localhost:3000

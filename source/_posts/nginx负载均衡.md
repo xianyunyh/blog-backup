@@ -1,8 +1,11 @@
 title: Nginx 负载均衡配置
-categories: linux
-tags: [Nginx]
-description: Nginx 负载均衡配置
+tags:
+  - Nginx
+categories:
+  - linux
+date: 2016-07-11 22:12:28
 ---
+
 ## Nginx 负载均衡配置
 
 >  配置后端的机器,nginx 的 upstream默认是以轮询的方式实现负载均衡，这种方式中，每个请求按时间顺序逐一分配到不同的后端服务器

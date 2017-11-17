@@ -1,7 +1,9 @@
 title: Linux文件目录的介绍
-categories: Linux
-tags: [Linux]
-description: Linux文件目录的介绍
+tags:
+  - Linux
+categories:
+  - Linux
+date: 2016-02-10 16:20:57
 ---
 
 

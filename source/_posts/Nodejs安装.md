@@ -1,9 +1,10 @@
-title:  Nodejs安装
-date: 2017-11-15
-categories: Nodejs
-tags: 
-- js
-----
+title: Nodejs安装
+tags:
+  - js
+categories:
+  - Nodejs
+date: 2017-11-15 00:00:00
+---
 
 
 ## Nodejs安装
