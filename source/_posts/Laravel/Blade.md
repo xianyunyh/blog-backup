@@ -2,6 +2,7 @@ title: Blade 模板
 categories: Laravel
 tags: [php,laravel，Blade]
 description: Blade 模板
+date: 2017-04-02 00:00:02 
 ---
 
 

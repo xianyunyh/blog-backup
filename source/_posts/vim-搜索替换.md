@@ -1,7 +1,8 @@
 title: vim-search
 categories: linux
 tags: [vim]
-description: git tag的使用
+description: Vim使用
+date: 2017-04-19 22:12:07 
 ---
 
 

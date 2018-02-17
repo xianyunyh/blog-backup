@@ -2,6 +2,7 @@ title: 利用php识别条码
 categories: PHP
 tags: [PHP]
 description: 利用php识别条码
+date: 2017-05-22 00:00:02 
 ---
 
 ## 利用php识别条码

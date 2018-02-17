@@ -2,6 +2,7 @@ title: Centos配置网络
 categories: Linux
 tags: [Linux]
 description: Centos配置网络
+date: 2017-03-29 00:00:02 
 ---
 
 # Centos配置网络

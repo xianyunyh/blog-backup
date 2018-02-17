@@ -2,6 +2,7 @@ title: git tag的使用
 categories: linux
 tags: [git]
 description: git tag的使用
+date: 2017-02-10 00:00:02 
 ---
 
 标签可以针对某一时间点的版本做标记，常用于版本发布。

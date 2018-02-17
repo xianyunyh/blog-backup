@@ -2,6 +2,7 @@ title: 让IIS支持SVG的方法
 categories: Windows
 tags: [IIS]
 description: 让IIS支持SVG的方法
+date: 2016-02-11 00:00:02 
 ---
 
 ## 让IIS支持SVG的方法

@@ -2,6 +2,7 @@ title: Laravel控制器
 categories: Laravel
 tags: [php,laravel，Controller]
 description: Laravel控制器
+date: 2017-04-05 00:00:02 
 ---
 
 

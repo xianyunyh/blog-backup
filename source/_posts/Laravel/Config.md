@@ -2,6 +2,7 @@ title: Config的使用
 categories: Laravel
 tags: [php,laravel]
 description: Config的使用
+date: 2017-04-04 00:00:02 
 ---
 
 

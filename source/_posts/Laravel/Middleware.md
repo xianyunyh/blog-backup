@@ -2,6 +2,7 @@ title: Laravel_Middleware
 categories: Laravel
 tags: [php,laravel]
 description: Laravel Middleware
+date: 2017-04-07 00:00:02 
 ---
 
 

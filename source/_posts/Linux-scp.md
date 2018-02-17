@@ -1,7 +1,8 @@
-title: Linux 常用的命令
+title: Linux scp命令
 categories: Linux
 tags: [Ftp]
-description: Linux 常用的命令
+description: Linux scp命令
+date: 2016-02-13 00:00:02 
 ---
 
 

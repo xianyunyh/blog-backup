@@ -2,6 +2,7 @@ title: 单例模式
 categories: PHP
 tags: [php]
 description: 单例模式
+date: 2017-05-19 00:00:02 
 ---
 
 

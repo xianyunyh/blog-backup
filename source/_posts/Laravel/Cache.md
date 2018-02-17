@@ -2,6 +2,7 @@ title: Laravel 缓存
 categories: Laravel
 tags: [php,laravel，Cache]
 description: Laravel 缓存
+date: 2017-04-03 00:00:02 
 ---
 
 ## Laravel 缓存

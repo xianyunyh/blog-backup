@@ -2,6 +2,7 @@ title: Linux vim操作
 categories: Linux
 tags: [vim]
 description: Linux vim
+date: 2016-02-12 00:00:02 
 ---
 
 

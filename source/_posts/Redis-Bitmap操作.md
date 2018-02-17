@@ -2,6 +2,7 @@ title: Redis Bitmap
 categories: redis
 tags: [redis]
 description: Redis Bitmap
+date: 2017-05-28 00:00:02 
 ---
 
 ## Redis Bitmap

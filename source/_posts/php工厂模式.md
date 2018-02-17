@@ -2,6 +2,7 @@ title: 工厂模式
 categories: PHP
 tags: [设计模式]
 description: 工厂模式
+date: 2017-05-20 00:00:02 
 ---
 
 ## 工厂模式。

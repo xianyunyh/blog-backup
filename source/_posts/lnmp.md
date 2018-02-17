@@ -2,6 +2,7 @@ title: Lnmp环境的配置
 categories: Linux
 tags: [lnmp]
 description: linux下lnmp环境的配置
+date: 2016-02-09 00:00:02 
 ---
 
 ## LNMP配置 #

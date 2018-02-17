@@ -2,6 +2,7 @@ title: 添加nginx php-fpm 到系统启动项
 categories: Linux
 tags: [nginx]
 description: 添加nginx php-fpm 到系统启动项
+date: 2016-02-05 00:00:02 
 ---
 
 

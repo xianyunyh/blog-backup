@@ -2,6 +2,7 @@ title: Windows下AWstats安装教程
 categories: linux
 tags: [awstats]
 description: AWStats是一个免费、功能强大、特性丰富的日志分析工具
+date: 2016-02-12 00:00:02 
 ---
 
 # Windows下AWstats安装教程 #

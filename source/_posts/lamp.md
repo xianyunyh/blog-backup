@@ -2,6 +2,7 @@ title: Lamp环境的配置
 categories: Linux
 tags: [lamp]
 description: linux下lamp环境的配置
+date: 2016-02-02 00:00:02 
 ---
 
 ## LAMP配置 #

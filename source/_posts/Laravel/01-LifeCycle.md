@@ -2,6 +2,7 @@ title: Laravel的生命周期
 categories: Laravel
 tags: [php,laravel]
 description: Laravel的生命周期和目录介绍
+date: 2017-04-01 00:00:02 
 ---
 
 

@@ -2,6 +2,7 @@ title: js箭头函数
 categories: javascript
 tags: [js]
 description: js箭头函数
+date: 2017-06-05 00:00:02 
 ---
 
 ## js箭头函数

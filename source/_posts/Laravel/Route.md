@@ -1,6 +1,6 @@
 title: Laravel 路由的使用
 categories: Laravel
-date: 2017-04-15 
+date: 2017-04-10 
 tags: [Laravel]
 description: Laravel 路由的使用
 ---

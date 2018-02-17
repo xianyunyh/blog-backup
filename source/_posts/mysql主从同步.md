@@ -2,6 +2,7 @@ title: Linux下mysql主从配置
 categories: linux
 tags: [linux]
 description: Linux下mysql主从配置
+date: 2016-02-15 00:00:02 
 ---
 
 # Linux下mysql主从配置

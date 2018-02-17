@@ -2,6 +2,7 @@ title: js getter 和 setter
 categories: javascript
 tags: [js]
 description: getter 和 setter
+date: 2017-06-05 00:00:02 
 ---
 
 ## getter 和 setter

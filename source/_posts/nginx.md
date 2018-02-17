@@ -2,6 +2,7 @@ title: Nginx的配置
 categories: Linux
 tags: [nginx]
 description: nginx的配置的一些介绍
+date: 2016-02-01 00:00:02 
 ---
 
 

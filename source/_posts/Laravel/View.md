@@ -1,7 +1,8 @@
-title:Laravel视图
-categories:Laravel
-tags:[php,laravel，environment]
-description:Laravel view
+title: Laravel视图
+categories: Laravel
+tags: [php,laravel，environment]
+description: Laravel view
+date: 2017-04-11 00:00:02 
 ---
 
 
